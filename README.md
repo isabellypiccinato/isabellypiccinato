@@ -19,6 +19,7 @@
 
 <p align="center">
   💻 HTML • CSS • JavaScript  
+  
   🖤 Node.js • Git • GitHub  
 </p>
 
