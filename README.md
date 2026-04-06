@@ -16,10 +16,10 @@
 ---
 
 ## 🖤 Tecnologias
+
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-ffc0cb?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-d8bfd8?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-b0c4de?style=for-the-badge">
+  💻 HTML • CSS • JavaScript  
+  🖤 Node.js • Git • GitHub  
 </p>
 
 
