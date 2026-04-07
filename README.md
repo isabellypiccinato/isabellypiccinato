@@ -15,11 +15,24 @@
 
 ---
 
-## 🖤 Tecnologias
+<p align="center">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasmelania&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="425" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasmelania&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+---
+
+## Linguagens
 
 <p align="center">
-  💻 HTML • CSS • JavaScript  
-  🖤 Node.js • Git • GitHub  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50">
 </p>
 
 
